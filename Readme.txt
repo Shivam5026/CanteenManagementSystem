@@ -1,5 +1,0 @@
-- This is my first time using git commits.
-- very excited 
-- Exploring new things 
-- Making efforts to grow together
-- For my future self "Dont stop when you are tired, stop when you are done"
