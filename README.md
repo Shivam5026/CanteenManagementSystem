@@ -1,4 +1,6 @@
 Canteen Mangagement System
+
+
 Today’s fast paced world food and take-out, people 
 prefer quick delivery of food service. No one wants 
 to stand in a long line waiting for order 
